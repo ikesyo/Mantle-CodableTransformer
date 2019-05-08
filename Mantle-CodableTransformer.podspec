@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'Mantle-CodableTransformer'
-  s.version      = '0.1.0'
+  s.version      = '0.2.0'
   s.summary      = 'A ValueTransformer implementation for Mantle and Codable combination'
   s.description  = <<-DESC
                    A ValueTransformer implementation for Mantle and Codable combination, which is useful for migration from Mantle to Codable.
